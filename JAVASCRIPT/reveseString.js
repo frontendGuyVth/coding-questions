@@ -11,7 +11,6 @@ function reverseStr(str) {
 console.log(reverseStr("nana"))
 
 // with using of build-in methods
-
 const str = "heydaya"
 
 const reverseString = str.split('').reverse('.').join('')
